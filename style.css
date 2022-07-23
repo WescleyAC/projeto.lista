@@ -1,0 +1,110 @@
+* {
+
+    margin: 0;
+
+}
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color: #F0F1F1;
+}
+
+header {
+
+    background-color: #388ED9;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+
+main {
+
+padding: 30px 50px;
+
+}
+
+
+.card {
+
+    background-color: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 40%;
+}
+
+.lineInput {
+
+    display:grid;
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+input {
+
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    outline: none;
+}
+
+.Button {
+
+    border: 0px;
+    padding: 10px;
+    outline: 0;
+    background: #388ED9;
+    color: #FFFFFF;
+    border-radius: 3px;
+    font-weight: bold;
+    transition: al;
+
+}
+
+.Button:hover {
+
+   background-color:#537b9e ; 
+}
+
+.content {
+
+    margin-top: 15px;
+}
+
+
+table {
+
+border-collapse: collapse;
+border: 1px solid #CCCCCC;
+width: 100%;
+
+}
+
+table th {
+
+background-color: #cccccca6;
+
+}
+
+table td img {
+
+    width: 22px;
+}
+
+table td, th {
+
+padding: 1px 5px;
+text-align: left;
+
+}
+
+.center {
+
+    text-align: center;
+}
+
